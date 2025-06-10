@@ -31,9 +31,7 @@ A custom unit mod for **Rusted Warfare** that adds the mythical **Ushakov’s Fl
 
 ## Credits
 
-Mod by: *Your Name or Alias*  
-Concept based on: **Ushakov’s Flying Submarine (1930s USSR)**  
-Thanks to the Rusted Warfare community for modding resources and support.
+Mod by: *IVN*  
 
 ---
 
